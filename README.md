@@ -7,8 +7,8 @@ Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural do Rio Grande 
     <p>
     <a href="https://github.com/Andersoncarvalhoserio">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Meu Linkedin" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/github/stars/Andersoncarvalhoserio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
