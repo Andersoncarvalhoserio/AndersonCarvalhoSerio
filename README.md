@@ -5,7 +5,7 @@
 Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José dos Campos - SP. Concluí o ensino médio Todo em escola pública, desde pequeno eu trato a programação como um hobby para fazer nas horas livres, estou cursando Logística na FATEC e Economia na UNIP.
     </a> 
     <p>
-    <a href="https://github.com/Andersoncarvalhoserio">
+    <a href="https://www.linkedin.com/in/anderson-carvalho-0a5317191/">
         <img 
             alt="MeuLinkedin" 
             title="Linkedin " 
@@ -160,3 +160,4 @@ Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José 
   />
 
 </p>
+https://www.linkedin.com/in/anderson-carvalho-0a5317191/
