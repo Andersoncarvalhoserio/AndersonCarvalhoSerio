@@ -161,5 +161,4 @@ Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José 
 
 </p>
 
-<img src="https://custom-icon-badges.demolab.com/github/stars/Andersoncarvalhoserio?color=55960c&style=for-the-badge&labelColor=488207&logo=laptop&label=computador" alt="Computador">
 
