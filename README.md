@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Anderson De Carvalho
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Economia e Logística`**
 
 Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS.
 
