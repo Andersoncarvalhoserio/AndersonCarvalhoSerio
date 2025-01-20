@@ -4,6 +4,7 @@
 
 Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS.
     </a> 
+    </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -11,7 +12,7 @@ Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural do Rio Grande 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="[https://github.com/Andersoncarvalhoserio]">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
