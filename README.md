@@ -9,7 +9,7 @@ Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José 
         <img 
             alt="Meuemail" 
             title="Email" 
-            img src="https://custom-icon-badges.demolab.com/github/stars/Andersoncarvalhoserio?color=ff0000&style=for-the-badge&labelColor=ff4d4d&logo=laptop&label=gmail" alt="Gmail"
+            img src="https://custom-icon-badges.demolab.com/github/stars/AndersoncarvalhoSerio?color=ff0000&style=for-the-badge&labelColor=ff4d4d&logo=laptop&label=gmail" alt="Gmail"
         />
     </a>
     <a href="[https://github.com/Andersoncarvalhoserio]">
