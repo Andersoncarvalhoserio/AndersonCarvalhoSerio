@@ -5,11 +5,11 @@
 Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José dos Campos - SP. Concluí o ensino médio Todo em escola pública, desde pequeno eu trato a programação como um hobby para fazer nas horas livres, estou cursando Logística na FATEC e Economia na UNIP.
     </a> 
     <p>
-    <a href="https://www.linkedin.com/in/anderson-carvalho-0a5317191/">
+    <a href="mailto:andersondecarvalhoserio@gmail.com">
         <img 
-            alt="MeuLinkedin" 
-            title="Linkedin " 
-            src="https://custom-icon-badges.demolab.com/github/stars/Andersoncarvalhoserio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Meuemail" 
+            title="Email" 
+            img src="https://custom-icon-badges.demolab.com/github/stars/Andersoncarvalhoserio?color=ff0000&style=for-the-badge&labelColor=ff4d4d&logo=laptop&label=gmail" alt="Gmail"
         />
     </a>
     <a href="[https://github.com/Andersoncarvalhoserio]">
@@ -160,4 +160,6 @@ Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José 
   />
 
 </p>
-https://www.linkedin.com/in/anderson-carvalho-0a5317191/
+
+<img src="https://custom-icon-badges.demolab.com/github/stars/Andersoncarvalhoserio?color=55960c&style=for-the-badge&labelColor=488207&logo=laptop&label=computador" alt="Computador">
+
