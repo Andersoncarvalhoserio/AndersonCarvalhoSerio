@@ -2,7 +2,7 @@
 
 **`Estudante de Economia e Logística`**
 
-Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+Me chamo Anderson de carvalho sério, tenho 26 anos e sou natural de São José dos Campos - SP. Concluí o ensino médio Todo em escola pública, desde pequeno eu trato a programação como um hobby para fazer nas horas livres, estou cursando Logística na FATEC e Economia na UNIP.
     </a> 
     <p>
     <a href="https://github.com/Andersoncarvalhoserio">
